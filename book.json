@@ -1,0 +1,59 @@
+{
+  "Book": [
+    {
+      "bookID": "1",
+      "title": "من او",
+      "writer": "رضا امیرخانی",
+      "translators": [],
+      "publication": "نشر قدیانی",
+      "dateOfPublication": "1378",
+      "imageUri": "./public/assets/images/man-e-oo.jpg",
+      "lang": "fr",
+      "tags": [
+        "رمان",
+        "عاشقانه",
+        "داستان",
+        "ادبیات",
+        "فارسی",
+        "ایرانی"
+      ]
+    },
+    {
+      "bookID": "2",
+      "title": "بی شعوری تا همیشه",
+      "writer": "خاویر کرمنت",
+      "translators": [
+        "اسحاق احمدی"
+      ],
+      "publication": "نشر شبگون",
+      "dateOfPublication": "1393",
+      "imageUri": "./public/assets/images/bi-shouri.jpg",
+      "lang": "en",
+      "tags": [
+        "روانشناسی",
+        "اجتماعی",
+        "فلسفه",
+        "جامعه شناسی",
+        "خودشناسی",
+        "خارجی"
+      ]
+    },
+    {
+      "bookID": "3",
+      "title": "کتاب",
+      "writer": "فاضل نظری",
+      "translators": [],
+      "publication": "نشر سوره مهر",
+      "dateOfPublication": "1395",
+      "imageUri": "./public/assets/images/ketab.jpg",
+      "lang": "fr",
+      "tags": [
+        "شعر",
+        "عاشقانه",
+        "غزل",
+        "معاصر",
+        "ایرانی"
+      ]
+    }
+  ]
+}

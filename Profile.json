@@ -1,0 +1,154 @@
+{
+  "Account": [
+    {
+      "_comment": "pass = hosein123",
+      "Email": "h.kafi.123@gmail.com",
+      "Password": "hosein123",
+      "PhoneNumber": "09366419951",
+      "userName": "Hossein",
+      "name": "Hossein-Kafi",
+      "AccountId": 10284,
+      "ParentAccountId": "",
+      "IsActive": "",
+      "fallowers": [
+        "Mahdi",
+        "Shamim",
+        "Mostafa",
+        "Zeinab",
+        "Soroush"
+      ],
+      "wannaList": [
+        "1"
+      ],
+      "readingList": [
+        "2"
+      ],
+      "readList": [
+        "3"
+      ]
+    },
+    {
+      "_comment": "pass = mahdi123",
+      "Email": "my.farvahar@gmail.com",
+      "Password": "mahdi123",
+      "PhoneNumber": "09135244134",
+      "userName": "Mahdi",
+      "name": "Mahdi-Bakhshi",
+      "AccountId": 19362,
+      "ParentAccountId": 0,
+      "IsActive": "",
+      "fallowers": [
+        "Hossein",
+        "Mostafa",
+        "Zeinab",
+        "Soroush"
+      ],
+      "wannaList": [
+        "2"
+      ],
+      "readingList": [
+        "3"
+      ],
+      "readList": [
+        "1"
+      ]
+    },
+    {
+      "_comment": "pass = mostafa123",
+      "Email": "aseyedmostafaho@gmail.com",
+      "Password": "mostafa123",
+      "PhoneNumber": "09357739713",
+      "userName": "Mostafa",
+      "name": "Seyed Mostafa-Hosseini",
+      "AccountId": 21065,
+      "ParentAccountId": 0,
+      "IsActive": "",
+      "followers": [
+        "Hossein",
+        "Mahdi",
+        "Zeinab"
+      ],
+      "wannaList": [
+        "3"
+      ],
+      "readingList": [
+        "1"
+      ],
+      "readList": [
+        "2"
+      ]
+    },
+    {
+      "Email": "soroushzargar@gmail.com",
+      "Password": "soroush123",
+      "PhoneNumber": "09354151239",
+      "userName": "Soroush",
+      "name": "Soroush-Zargar",
+      "AccountId": 35390,
+      "ParentAccountId": 0,
+      "IsActive": "",
+      "fallowers": [
+        "Mahdi",
+        "Shamim",
+        "Mostafa",
+        "Zeinab",
+        "Hossein"
+      ],
+      "wannaList": [
+        "1",
+        "2"
+      ],
+      "readingList": [
+        "3"
+      ],
+      "readList": []
+    },
+    {
+      "Email": "zeinab.montazeri@gmail.com",
+      "Password": "zeinab123",
+      "PhoneNumber": "09385334387",
+      "userName": "Zeinab",
+      "name": "Zeinab-Montazeri",
+      "AccountId": 41281,
+      "ParentAccountId": 0,
+      "IsActive": "",
+      "fallowers": [
+        "Shamim",
+        "Mostafa",
+        "Soroush",
+        "Hossein"
+      ],
+      "wannaList": [
+        "3"
+      ],
+      "readingList": [
+        "2",
+        "1"
+      ],
+      "readList": []
+    },
+    {
+      "Email": "smiroliaei@gmail.com",
+      "Password": "shamim123",
+      "PhoneNumber": "09131231231",
+      "userName": "Shamim",
+      "name": "Shamim-Miroliaei",
+      "AccountId": 54280,
+      "ParentAccountId": 0,
+      "IsActive": "",
+      "fallowers": [
+        "Hossein",
+        "Zeinab",
+        "Soroush"
+      ],
+      "wannaList": [],
+      "readingList": [
+        "3",
+        "1"
+      ],
+      "readList": [
+        "2"
+      ]
+    }
+  ]
+}
